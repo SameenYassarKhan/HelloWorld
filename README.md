@@ -4,9 +4,7 @@
 Changes color of the text when the button is tapped.
 
 ### App Walk-though
-`TODO://` Add the URL to your animated app walk-though `gif` in the image tag below. Make sure the gif actually renders and animates when viewing this README. (☝️ Remove this paragraph after after adding gif)
-
-<img src="YOUR_GIF_URL_HERE" width=200><br>
+<img src="http://s350.photobucket.com/user/Cyberschot28/media/First%20App_zpsjkr497v3.gif.html?sort=3&o=1" width=200><br>
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
