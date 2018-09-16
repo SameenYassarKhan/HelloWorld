@@ -5,7 +5,7 @@ Changes color of the text when the button is tapped.
 
 ### App Walk-though
 ![alt text](https://github.com/SameenYassarKhan/HelloWorld/blob/master/First%20App.gif)
-![alt text](https://imgur.com/H5O5T8e)
+![alt text](https://raw.githubusercontent.com/username/projectname/branch/path/to/img.png)
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
