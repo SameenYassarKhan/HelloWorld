@@ -7,6 +7,8 @@ Changes color of the text when the button is tapped.
 ![alt text](https://github.com/SameenYassarKhan/HelloWorld/blob/master/First%20App.gif)
 ![alt text](https://github.com/SameenYassarKhan/HelloWorld/blob/master/First%20App%20Remake%202%20-%20Shortcut.lnk)
 If editing can be done, then you can view the link of the remake of this app below the original app! 
+I tried to remake the app but could not uppload it properly! You cannot view it in README but there is a link below! Above was just my first try!
+https://github.com/SameenYassarKhan/HelloWorld/blob/master/First%20App%20Remake%202%20-%20Shortcut.lnk
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
 - [x] 2. User see's custom background color.
